@@ -1,0 +1,24 @@
+{
+  "name": "fsd-workshop-sem-3-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khushicodes1610/FSD-WORKSHOP-SEM-3-ASSIGNMENT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/khushicodes1610/FSD-WORKSHOP-SEM-3-ASSIGNMENT/issues"
+  },
+  "homepage": "https://github.com/khushicodes1610/FSD-WORKSHOP-SEM-3-ASSIGNMENT#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
